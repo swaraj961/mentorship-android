@@ -17,7 +17,7 @@ This is the Android client for the Mentorship System.
 
 ## Features
 
-* A member gets an option to be a Mentor, Mentee or Both.
+* A member gets an option to be a Mentor, Mentee or both.
 * A member can build/customise the app profile with username, bio, skills, interests, location, occupation, etc. anytime. 
 * A member can view a list of other members and search for a member on the Members Page
 * A member can either send mentorship requests to other members as a Mentor or Mentee according to their interests or reject mentorship requests from other members.
